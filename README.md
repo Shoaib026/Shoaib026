@@ -1,5 +1,4 @@
 
-![giphy (1)](https://github.com/Shoaib026/Shoaib026/assets/101673132/e1e060b1-30ea-48d8-af5d-cbfd331df1dc)
 <h1 align="center">Hi 👋, I'm Shoaib</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
